@@ -2,20 +2,23 @@
 
 Public Key Cryptography Encryption and Decryption. The private and public keys are generated with the file Keygen. With the keys created, we can encrypt and decrypt files.
 
+## Required Library 
+
+This program use The GNU Multiple Precision Arithmetic Library (GMP). Download the [latest package](https://gmplib.org).
+
 ## Build
 
 Program build, run `make`.
 
 Build a single program with:
- - '''
+ - 
 `make keygen`
-'''
- - '''
+
+ - 
 `make encrypt`
-'''
- - '''
+
+ - 
 `make decrypt`
-'''
 
 ## Run
 
