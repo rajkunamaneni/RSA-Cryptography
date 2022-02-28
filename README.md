@@ -4,7 +4,7 @@ Public Key Cryptography Encryption and Decryption. The private and public keys a
 
 ## Required Library 
 
-This program use The GNU Multiple Precision Arithmetic Library (GMP). Download the [latest package](https://gmplib.org).
+This program use the GNU Multiple Precision Arithmetic Library (GMP). Download the [latest package](https://gmplib.org).
 
 ## Build
 
