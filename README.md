@@ -1,6 +1,6 @@
 # Public Key Cryptography
 
-This program is designed to send files securely to its intended client. This is done to keep the contents of the file not being viewable to prying eyes.This program makes sure that only the sender and receiver would see the contents of the file, as this program uses a private and public key. The private and public keys are generated with the file Keygen. With the keys created, we can encrypt and decrypt the file by following the help message as stated below to understand how to input and output a file.
+Public Key Cryptography Encryption and Decryption. The private and public keys are generated with the file Keygen. With the keys created, we can encrypt and decrypt files.
 
 ## Build
 
@@ -8,13 +8,13 @@ Program build, run `make`.
 
 Build a single program with:
  - '''
-make keygen
+`make keygen`
 '''
  - '''
-make encrypt
+`make encrypt`
 '''
  - '''
-make decrypt
+`make decrypt`
 '''
 
 ## Run
