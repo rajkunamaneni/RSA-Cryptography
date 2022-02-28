@@ -1,7 +1,7 @@
 #include <stdint.h>
 #include <gmp.h>
 
-gmp_randstate_t state; //define variable
+gmp_randstate_t state; 
 
 void randstate_init(uint64_t seed) {
 
