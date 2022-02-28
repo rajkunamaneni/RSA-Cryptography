@@ -11,14 +11,12 @@ This program use The GNU Multiple Precision Arithmetic Library (GMP). Download t
 Program build, run `make`.
 
 Build a single program with:
- - 
-`make keygen`
 
- - 
-`make encrypt`
+ - `make keygen`
 
- - 
-`make decrypt`
+ - `make encrypt`
+
+ - `make decrypt`
 
 ## Run
 
