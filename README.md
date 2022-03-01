@@ -1,6 +1,6 @@
 # Public Key Cryptography
 
-Public Key Cryptography Encryption and Decryption. The private and public keys are generated with the file Keygen. With the keys created, we can encrypt and decrypt files.
+Public Key Cryptography Encryption and Decryption. The private and public keys are generated with the file Keygen. With the keys created, the program can encrypt and decrypt files.
 
 ## Required Library 
 
