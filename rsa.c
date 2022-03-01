@@ -125,7 +125,7 @@ void rsa_decrypt_file(FILE *infile, FILE *outfile, mpz_t n, mpz_t d) {
 
     size_t j = 0;
 
-    while (!feof(infile)) { //step 4
+    while (!feof(infile)) { 
         int results = gmp_fscanf(infile, "%Zx", c); 
         if (results > 0) { 
             rsa_decrypt(m, c, d, n); //decrypt the contents
