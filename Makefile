@@ -20,9 +20,6 @@ keygen: keygen.o $(OBJS)
 clean:
 	rm -f encrypt encrypt.o decrypt decrypt.o keygen keygen.o $(OBJS)
 
-format:
-	clang-format -i -style=file *.c *.h
-
 debug: CFLAGS += -g
 
 debug: clean all
