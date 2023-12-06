@@ -4,7 +4,7 @@ Public Key Cryptography Encryption and Decryption. The private and public keys a
 
 ## Required Library 
 
-This program uses the GNU Multiple Precision Arithmetic Library (GMP). Download the [latest package](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/data).
+This program uses the GNU Multiple Precision Arithmetic Library (GMP). Download the [latest package](https://gmplib.org).
 
 ## Build
 
